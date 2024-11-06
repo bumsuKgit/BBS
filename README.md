@@ -1,6 +1,6 @@
 # BBS(게시판)
 2024-11-06</br>
-쉬고있다가 응원을 받아서 갑자기 열정이 끌어올라 지금 만들고 있는거 올려보려고 깃허브 들어와봄<img width="35" alt="팀즈 하이파이브 아이콘" src="https://github.com/user-attachments/assets/af1ffe2d-7c13-46d0-8f60-67502a128664"></br>
+갑자기 지금 만들고 있는거 올려보려고 깃허브 들어와봄<img width="35" alt="팀즈 하이파이브 아이콘" src="https://github.com/user-attachments/assets/af1ffe2d-7c13-46d0-8f60-67502a128664"></br>
 
 깃허브써볼겸 </br>
 프로젝트올리것도 해볼겸</br>
