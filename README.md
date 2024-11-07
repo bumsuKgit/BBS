@@ -26,5 +26,3 @@ html도 다시 다뤄보고 sql도 써보고 java도 써보려고 만드는중</
 update기능을 추가했는데 NULLPOINT오류가나옴 근데 해결법을 모르겠음</br>
 그러다가 어디서 오류가 났는지 모르겠어서 syso를 붙혀서 오류나는곳을 찾아봤는데</br>
 Bbs bbs = new BbsDAO().getBbs(bbsID); 여기서 bbsID가 null값이 돼서 문제가 생김</br>
-물론 이 코드조차 완벽하게 이해못함 아직</br>
-여기까지...</br>
